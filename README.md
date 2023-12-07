@@ -3,7 +3,7 @@ J. Diehl, L. Schmitz, 2022.
 [https://arxiv.org/abs/2210.14247]
 
 
-The 2-parameter sums signatures is implemented in twoParameterSS.py for arbitrary dimension d. 
+The 2-parameter sums signatures is implemented in 'twoParameterSS.py' for arbitrary dimension d. 
 The matrix composition Hopf algebra is implemented in composition_Algebra.py for arbitrary d. 
 "picturesLoding.py" is a small library for image preperation based on warping. 
 Sample pictures are provided in the folder "pictures". 
