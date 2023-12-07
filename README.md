@@ -4,9 +4,9 @@ J. Diehl, L. Schmitz, 2022.
 
 
 The 2-parameter sums signatures is implemented in `twoParameterSS.py` for arbitrary dimension d. 
-The matrix composition Hopf algebra is implemented in composition_Algebra.py for arbitrary d. 
-"picturesLoding.py" is a small library for image preperation based on warping. 
-Sample pictures are provided in the folder "pictures". 
+The matrix composition Hopf algebra is implemented in `composition_Algebra.py` for arbitrary d. 
+`picturesLoding.py` is a small library for image preperation based on warping. 
+Sample pictures are provided in the folder `pictures`. 
 
 The code uses a library for linear combinations by J. Diehl:
 [https://github.com/diehlj/linear-combination-py]
