@@ -13,11 +13,11 @@ The code uses a library for linear combinations by J. Diehl:
 
 tests.py contains numeric tests for the article, including 
 - Example 2.5. (toy computation SS)
-- Example 2.7. (toy computation quasishuffle) 
+- Example 2.7. (toy computation quasi-shuffle) 
 - Example 2.9  (toy computation coproduct)
 - Theorem 2.10. (Hopf algebra)
-- Theorem 2.11. (Quasishuffle identity)    
-- Example 2.13. (toy computation quasishuffle)
+- Theorem 2.11. (Quasi-shuffle identity)    
+- Example 2.13. (toy computation quasi-shuffle)
 - Lemma 2.15. (Zero properties)
 - Theorem 2.18. (SS zero insertion invariant)
 - Lemma 2.19. (warp properties)
